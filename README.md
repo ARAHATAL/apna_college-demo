@@ -2,4 +2,4 @@
 
 This is my first project
 <br>
-Author : Aarti R.
+Author : Aarti R. (Main author)
